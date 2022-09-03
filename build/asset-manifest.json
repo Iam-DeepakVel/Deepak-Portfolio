@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8ad6c87.css",
+    "main.js": "/static/js/main.a18f9d4a.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "static/media/Skillcontainer__image.jpg": "/static/media/Skillcontainer__image.b1a5f9a8a056a21d72e9.jpg",
+    "static/media/Topcontainer.jpg": "/static/media/Topcontainer.7ec47e509ec0a54ab6eb.jpg",
+    "static/media/experiencebox.jpg": "/static/media/experiencebox.cab11ff938e29f9587a9.jpg",
+    "index.html": "/index.html",
+    "main.c8ad6c87.css.map": "/static/css/main.c8ad6c87.css.map",
+    "main.a18f9d4a.js.map": "/static/js/main.a18f9d4a.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ad6c87.css",
+    "static/js/main.a18f9d4a.js"
+  ]
+}
